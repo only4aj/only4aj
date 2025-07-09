@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/only4aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="only4aj" height="30" width="40" /></a>
 <a href="https://instagram.com/only4aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="only4aj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ansh juneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ansh juneja" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@only4aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ansh juneja" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/onlyforanshjuneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="onlyforanshjuneja" height="30" width="40" /></a>
 </p>
 
